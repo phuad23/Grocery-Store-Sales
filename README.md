@@ -11,7 +11,7 @@ Conclusively, I leveraged my data analytics skills to identify products with atl
 
 You can find the project **[Here](https://www.datacamp.com/datalab/w/c5c096df-8288-4d7a-95e1-2770f1f515d6/edit)**
 
-NOTE: This project earned me Datacamp  **Associate Data Analyst[Certificate]()
+NOTE: This project earned me Datacamp  **Associate Data Analyst [Certification](https://github.com/phuad23/Grocery-Store-Sales/blob/main/Associate%20Data%20Analyst.pdf)**
 
 
 
